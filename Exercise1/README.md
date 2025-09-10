@@ -16,7 +16,7 @@ This exercise will allow you to demonstrate:
 
 Your task is to generate a set of simple data types to represent the primary objects for managing renovation projects.
 
-For this exercise, place all the required data types in the namespace `RenoSystem` and ensure that they are `public`. Create your project as a Class library (.NET Core 8). This project will be used for **both** Exercise 1 and 2. In Exercise 1, you will create a class that will contain specifications for an opening (such as a door, a window, a closet, etc.) Certain characteristics of the class are set and cannot be altered. You will need to read the specifications carefully to determine the access levels for the class characteristics. You have been supplied a Unit Tests project that will inform you if your work will meet specifications and hold appripriate data. **Ensure you follow the given class diagrams for the Unit Tests to work.**
+For this exercise, place all the required data types in the namespace `RenoSystem` and ensure that they are `public`. Create your project as a Class library (.NET Core 9). This project will be used for **both** Exercise 1 and 2. In Exercise 1, you will create a class that will contain specifications for an opening (such as a door, a window, a closet, etc.) Certain characteristics of the class are set and cannot be altered. You will need to read the specifications carefully to determine the access levels for the class characteristics. You have been supplied a Unit Tests project that will inform you if your work will meet specifications and hold appripriate data. **Ensure you follow the given class diagrams for the Unit Tests to work.**
 
 ### General Validation Rules
 
