@@ -57,7 +57,7 @@ Note the following:
 
 ## Required Class
 
-### The `Room`
+### The `Room` (this is the class you are required to code)
 
 A Room is a set of walls with or without openings. A Room represents an distinct area of a residence. Rooms will normally have 4 or more walls but may have as little as one wall (open layout plan). The Room must at minimum have: a Project identifier and a Name when created. New walls are added to the room one-by-one. The collection of Walls will have a `set` property of `private` with a public getter. This will allow one to supplied a collection of Walls at construction time only. Adding and removing a wall after instance creation must be done via methods within the class. The Room will track:
 
