@@ -44,7 +44,7 @@ Walls are the basic components of the house. Walls will be rectangles and have u
 - **WallOpening** (e.g.: door, window, closet), and
 - **SurfaceArea** - Value of the Wall area (width * height) minus the Opening area (if present)
   
-  The class has been coded and does **not** need to be altered. Examine the class. **Note that WallOpening is datatype Opening.** You will discover that the properties have **private** sets. There are methods that are used to alter the properties: height, width and color. PlanId is not changable. This demonstrates another technique in creating classes. **This class makes use of the 2 methods coded in the Utilities class to validate the numeric height and width. Depending on what you named your two utilities methos, you may need to change the names in this class.**
+  The class has been coded and does **not** need to be altered. Examine the class. **Note that WallOpening is datatype Opening.** You will discover that the properties have **private** sets. There are methods that are used to alter the properties: height, width and color. PlanId is not changable. This demonstrates another technique in creating classes. **This class makes use of the 2 methods coded in the Utilities class to validate the numeric height and width. Depending on what you named your two utilities methods, you may need to change the names in this class.**
 
 ![Wall](./Wall-ClassDiagram.png)
 
