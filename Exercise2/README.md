@@ -62,7 +62,7 @@ Note the following:
 A Room is a set of walls with or without openings. A Room represents an distinct area of a residence. Rooms will normally have 4 or more walls but may have as little as one wall (open layout plan). The Room must at minimum have: a Project identifier and a Name when created. New walls are added to the room one-by-one. The collection of Walls will have a `set` property of `private` with a public getter. This will allow one to supplied a collection of Walls at construction time only. Adding and removing a wall after instance creation must be done via methods within the class. The Room will track:
 
 - **Project** - This identifies the Renovation project. Cannot not be null.
-- **Name** - This identifies the Room. Cannot not be null.
+- **Name** - This identifies the Room. Cannot be null.
 - **Flooring** - This identifies the material of the floor such as tile, carpet, hardwood, etc. Can be null. Should not contain an empty or blank string.
 - **Walls** - This is the collection of walls for the Room.
 - **TotalWalls** - Returns the number of walls for this room in the List&lt;Wall&gt; collection.
