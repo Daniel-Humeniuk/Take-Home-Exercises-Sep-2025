@@ -55,7 +55,7 @@ Also ensure that the menu navigation has the following items.
 
 A zip file has been supplied for you. This file contains the Model folder. Unpack the file and place the Model folder into your web application project (same level as the Data folder).
 
-The `RenoDetail` class will be used for your data (see below). The files an enum class `OpeningType` and a utility method class `Utilities`  will be used in support of your data and data entry control respectively. The Utilties class contains a methods that help with property value validation.
+The `RenoDetail` class will be used for your data (see below). The files, an enum class `OpeningType` and a utility method class `Utilities`,  will be used in support of your data and data entry control respectively. The Utilties class contains a methods that help with property value validation.
 
 ![RenoDetails Diagram](./RenoDetail.png)
 
